@@ -191,7 +191,7 @@ GameObject:
   - component: {fileID: 8021973370165647725}
   - component: {fileID: 6412032758865123016}
   - component: {fileID: 9158327796018323970}
-  - component: {fileID: 6302163342273613324}
+  - component: {fileID: 4995065871586313210}
   m_Layer: 0
   m_Name: Mat_Round_Brown
   m_TagString: Untagged
@@ -270,7 +270,7 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!114 &6302163342273613324
+--- !u!114 &4995065871586313210
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -279,7 +279,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 7212540004976657367}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7e2f4617667341945b5a7756e14b62d0, type: 3}
+  m_Script: {fileID: 11500000, guid: acbdb9f0a1fd00f44bf08cc79a3c9bfb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   m_InteractionManager: {fileID: 0}
